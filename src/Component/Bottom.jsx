@@ -2,7 +2,7 @@ import Image8 from "../assets/image8.png";
 
 const Bottom = () => {
   return (
-    <div className="bg-box h-[38.6rem] w-[89%]">
+    <div className="bg-box h-[38.6rem] w-[89%] mb-[30px]">
       <div className="flex items-center justify-center h-[100%] gap-10">
         <div className="w-[600px]">
           <p className="w-[554px] font-secondary text-[40px] leading-[46.4px] tracking-[0.002em] mb-5 text-black font-bold">

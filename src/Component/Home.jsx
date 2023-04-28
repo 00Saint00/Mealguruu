@@ -4,6 +4,7 @@ import Top from "./Top";
 import Mid from "./Mid";
 import Bottom1 from "./Bottom1";
 import Bottom from "./Bottom";
+import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
         <Mid />
         <Bottom1 />
         <Bottom />
+        <Footer />
       </div>
     </div>
   );
