@@ -42,7 +42,7 @@ const Mid = () => {
             <p className="texts text-well ">Ikeja, Lagos</p>
           </div>
         </div>
-        <div className="flex items-center justify-center mb-30">
+        <div className="flex items-center justify-center mb-[176px]">
           <div className="w-[110px] h-[46px] buttom">
             <button>View More</button>
           </div>

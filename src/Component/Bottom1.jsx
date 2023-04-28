@@ -5,14 +5,14 @@ import face from "../assets/face.png";
 
 const Bottom1 = () => {
   return (
-    <div className=" h-[36rem] w-[89%] mb-[20rem]">
+    <div className=" h-[36rem] w-[89%] mb-[350px]">
       <div className="h-[17.5rem]">
         <div className="flex flex-col justify-center items-center">
-          <p className=" font-secondary text-[40px] leading-[46.4px] tracking-[0.002em] mb-5 text-black font-bold">
+          <p className=" font-secondary text-[40px] leading-[46.4px] tracking-[0.002em] mb-[22px] text-black font-bold">
             A user's exploit
           </p>
           <div className="flex text-center">
-            <p className=" w-[750px] font-tertiary font-normal text-[18px] leading-[23.4px] text-black">
+            <p className=" w-[750px] font-tertiary font-normal text-[18px] leading-[23.4px] text-black mb-[106px]">
               Get the right vendor for all our possible needs or events. Lorem
               ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
               vulputate consectetur leo in congue tempor cursus. Consectetur
@@ -69,7 +69,7 @@ const UserExploitItem = ({ icon, title, subtitle }) => {
             {title}
           </span>
         </div>
-        <span className="font-tertiary font-normal text-[23.4px] leading-[23.4px]">
+        <span className="font-tertiary font-normal text-[18px] leading-[23.4px]">
           {subtitle}
         </span>
       </div>
