@@ -14,12 +14,12 @@ const Top = () => {
             <div className="flex gap-10">
               <input
                 type="text"
-                className="w-[300px] h-[36px] rounded p-[10px]"
+                className="w-[300px] h-[36px] rounded p-[10px]  focus:outline-none"
                 placeholder="Location..."
               />
               <input
                 type="text"
-                className="w-[300px] h-[36px] rounded p-[10px] border-none"
+                className="w-[300px] h-[36px] rounded p-[10px] border-none focus:outline-none"
                 placeholder="Your meal choice.."
               />
             </div>

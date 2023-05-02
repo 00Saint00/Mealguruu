@@ -17,7 +17,7 @@ const Footer = () => {
             type="text"
             className="border-b-2 border-gray-300 focus:outline-none    focus:#E2E2E2 bg-inherit w-[600px]"
           />
-          <div className="absolute -top-4 right-0">
+          <div className="absolute -top-4 right-0 cursor-pointer">
             <RightArrowIcon />
           </div>
         </div>
